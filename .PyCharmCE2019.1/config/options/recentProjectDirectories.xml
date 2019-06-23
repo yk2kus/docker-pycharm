@@ -1,0 +1,76 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/odoo" />
+        <option value="/var/lib" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/odoo" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/odoo" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/django-commerce">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-191.7479.30" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561247203820" />
+              <option name="buildTimestamp" value="1559143000322" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/odoo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-191.7479.30" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561323272851" />
+              <option name="buildTimestamp" value="1559142989711" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/odoo80">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-191.7141.48" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558774235827" />
+              <option name="buildTimestamp" value="1557239672478" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/lib">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-191.7479.30" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561322958776" />
+              <option name="buildTimestamp" value="1559142964599" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/var/lib/docker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-191.7479.30" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561310278132" />
+              <option name="buildTimestamp" value="1559143011348" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
