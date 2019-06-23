@@ -1,0 +1,15 @@
+#Once-off (can potentially be a harmful command, use with caution):
+#xhost +local:docker
+#xhost -local:docker
+
+
+version: '3'
+services:
+  pycharm:
+    network_mode: host
+    build: .
+    environment:
+      - DISPLAY=unix$DISPLAY
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+#command: /usr/share/pycharm/bin/pycharm.sh
