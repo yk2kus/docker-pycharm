@@ -1,138 +1,0 @@
-/Header Record For PersistentHashMapValueStoragegnudumbndbmdbm	domreg
-minidom
-pulldomdom
-NodeFilter
-minicompat
-xmlbuilderexpatbuilder
-handlersaxsaxutils	xmlreader_exceptionsexpatreaderetreeElementTreecElementTreeElementPathElementIncludeexpat
-parsersxml	parserhtmlentities	client	server
-cookieshttp	cookiejartool
-decoder
-encoder
-scannerjson
-support
-testresultscript_helper
-pystonetest__main__mainsetuputils
-cmdline
-refleak
-runtestlibregrtestsave_env
-runtest_mpregrtesttest_supportvenv__main__basetextaudioimage
-req_setreqreq_filereq_install
-messagemime	multipartapplicationnonmultipartutils	errors	header	parser	policy
-charset
-messageemailencoders	generator	iteratorsreq_uninstall
-_parseaddr
-base64mimegit	bazaar
-feedparservcs	mercurial
-subversionuibuildglibc	hashes
-appdirs
-loggingutilsencodingoutdated	packaging
-filesystemdeprecationsetuptools_build	compat
-dictconfigindex	modelshash
-_vendorhelpshowlistcheckwheel
-quoprimime_policybase_encoded_wordscontentmanagerheaderregistry_header_value_parserioosreuuabcastbdbbz2cgicmdcsvutil
-_endian	ctypeswintypesasciipanel
-has_key	freeze
-textpad	search	curses
-installdiscommandsimppdbptyssldownload	uninstallttyerrorparse
-request	urllibresponserobotparser
-completion	server	clientindex	xmlrpcwheelaifccheck	freezelog
-operationspip__main__download	locations
-baseparser
-cmdoptions
-exceptions
-pep425tagsbasecommandstatus_codes	externsixutils
-_compat
-markers
-version	packaging	__about__
-specifiers_structuresrequirements
-_vendortestaliassdist	rotate	setopt	upload	pyparsing
-develop
-install
-commandlockstasks	compat	events	queues
-futures
-streams
-asynciosslproto	constants	protocols
-base_tasks
-coroutines
-subprocess
-test_utils
-transportsbase_eventsunix_eventsbase_futureswindows_utilswindows_eventsbase_subprocessproactor_eventsselector_eventscodecopyenumglobhmacgzip	fix_ne
-fix_map
-fix_zipfixesfix_dictfix_longfix_nextfix_reprfix_exec	fix_apply	fix_inputbuild_py	fix_paren	fix_print	fix_raise	fix_throw	fix_types
-fix_buffer
-fix_except
-fix_filter
-fix_future
-fix_idioms
-fix_intern
-fix_import
-fix_reduce
-fix_reload
-fix_urllib
-fix_xrangefix_assertsfix_getcwduregistersaveoptsegg_info	bdist_egg	bdist_rpm	build_ext	dist_info
-build_clib
-py36compatinstall_libupload_docsbdist_wininstinstall_scriptsinstall_egg_infoeasy_installglobdistmsvcglibcwheel	config	launch	monkey
-dependsfix_has_keyfix_importsfix_nonzerofix_renamesfix_sys_excfix_unicodefix_execfilefix_exitfuncfix_imports2fix_ws_commafix_funcattrsfix_operatorfix_itertools
-sandbox
-version
-setuptoolsdep_utilfix_metaclassfix_raw_inputfix_basestringfix_isinstance	extension
-build_meta
-lib2to3_ex
-namespacesfix_xreadlinesfix_numliteralsfix_methodattrsfix_set_literalfix_tuple_params
-pep425tags
-py27compat
-py31compat
-py33compat
-py36compat
-site-patchssl_supportarchive_utilpackage_indexunicode_utilsfix_standarderrorfix_itertools_importsconvpgenparsetoken	driver
-grammarpgen2windows_supportliteralsmaintokenize	pygram	pytree
-patcomp
-lib2to3__main__refactor	btm_utils
-fixer_base
-fixer_utilbtm_matchersix	externutils
-_compathandlers
-logging	configlzmasitedump	dbapi2
-sqlite3statthisuuidwave
-markersutil
-headers
-wsgiref	packaginghandlers	__about__
-specifiers
-version_structuresrequirements
-appdirs
-_vendor	pyparsingpkg_resources
-py31compatvalidatesimple_server_pyiocgitbchunkcryptheapqnetrcpipespydocqueuerunpyschedshlexsmtpdeasy_installsunautokentracetypescasemainmockpathutilsuiteos	loader	result	runner
-signalsunittestpath__main__errorpytools	base64nose
-multiarraycorenumpy	binhex	codecs	bisect	codeopcmdlogbuildbdistcheckclean	configsdist	upload
-install
-commandbuild_pyregister	bdist_msi	bdist_rpm
-bdist_dumb
-build_clib	build_extinstall_libinstall_databdist_wininstbuild_scriptsinstall_headersinstall_scriptsinstall_egg_infocoredistutildebugspawn	config	errors
-version	distutilsdir_utildep_utilfilelist	ccompiler	extension	file_util	sysconfig	text_filearchive_utilbcppcompilerfancy_getoptmsvccompiler_msvccompilermsvc9compilerunixccompilercygwinccompilerhzgbkoemversionpredicatebig5idnambcsasciicp273cp424cp037cp437cp500cp737cp720cp775cp850cp852cp855cp856cp857cp858cp860cp861cp862cp863cp864cp865cp866cp869cp874cp875cp932cp949cp950johabutf_7utf_8	cp1006	cp1026	cp1140	cp1125	cp1250	cp1251	cp1252	cp1254	cp1253	cp1255	cp1256	cp1257	cp1258	euc_jp	euc_kr	koi8_r	gb2312	koi8_u	kz1048	koi8_t	rot_13	palmos	utf_16	utf_32
-charmap
-cp65001
-gb18030
-latin_1
-aliases
-tis_620
-ptcp154	encodingspunycodeuu_codec	big5hkscs	bz2_codec	hex_codec	hp_roman8	iso8859_1	iso8859_2	iso8859_3	iso8859_4	iso8859_5	iso8859_6	iso8859_7	iso8859_8query	iso8859_9	mac_farsi	modelsdbmailcoreforms	models	mac_greekformsformsetsbase
-genericviews	django	pytestsys_csvmark
-structures
-_pytest	mac_roman	events
-asynciocopy
-terrain
-lettuce	behave	pickle	struct
-alembic
-decimal
-loggingStringIO	cStringIOmultiprocessingmanagers	shift_jis	undefined	utf_16_be	utf_16_le	utf_32_be	utf_32_le	utf_8_sig
-iso2022_jp
-iso2022_kr
-iso8859_10
-iso8859_11
-iso8859_13
-iso8859_14
-iso8859_15
-iso8859_16
-mac_latin2
-zlib_codec
-mac_arabicmac_icelandmac_turkishbase64_codeceuc_jis_2004euc_jisx0213iso2022_jp_1iso2022_jp_2iso2022_jp_3mac_centeuromac_croatianmac_cyrillicmac_romanianquopri_codeciso2022_jp_extshift_jis_2004shift_jisx0213unicode_escapeiso2022_jp_2004unicode_internalraw_unicode_escape	ftplib	getopt	imghdrabcutil	importlib
