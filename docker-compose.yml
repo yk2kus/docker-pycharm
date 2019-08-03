@@ -6,11 +6,15 @@
 version: '3'
 services:
   pycharm:
+    container_name: pycharm
     network_mode: host
     build: .
     environment:
       - DISPLAY=$DISPLAY
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix
-#      - ~/Project:/opt/odoo
-
+      - filestore:/opt/filestore/filestore
+      - odoo120:/opt/odoo
+volumes:
+  odoo120:
+  filestore:
